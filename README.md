@@ -1,2 +1,2 @@
 # pull-request-gh
-sample 2vtte
+sample 2vt
