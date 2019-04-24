@@ -1,2 +1,2 @@
 # pull-request-gh
-sample 2
+sample 3
